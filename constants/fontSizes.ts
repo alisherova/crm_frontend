@@ -1,0 +1,16 @@
+export const fontSizes = {
+  xxs: "10px",
+  xs: "12px",
+  ssm: "13px",
+  sm: "14px",
+  md: "15px",
+  base: "16px",
+  lg: "18px",
+  xl: "24px",
+  lg_20px: "20px",
+  heading1: "48px",
+  heading2: "38px",
+  heading3: "28px",
+  large: "34px",
+  large2: "40px",
+};
