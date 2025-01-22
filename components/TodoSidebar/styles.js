@@ -58,6 +58,10 @@ export const MenuIcon = styled.div`
   align-items: center;
 `;
 
+export const MenuText = styled.span`
+  // flex: 1;
+`;
+
 export const Badge = styled.span`
   background-color: red;
   color: white;

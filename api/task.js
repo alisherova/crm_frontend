@@ -7,7 +7,7 @@ export const fetchTasks = async () => {
     );
     return response.data;
   } catch (error) {
-    console.error("Error fetching tasks:", error.response.data);
+    console.error("Error fetching tasks:", error);
   }
 };
 
